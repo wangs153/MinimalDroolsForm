@@ -1,0 +1,29 @@
+package MinimalDroolsForm 
+
+rule "LargeOrder"
+    when
+        custOrder : CustomerRecord( Value > 50 )
+    then
+         MinimalDroolsForm.Form1.debugResult("Large Order");
+end 
+
+
+rule "OldCustomer"
+    when
+        cust : CustomerRecord( DaysSinceLastOrder > 90, Status != "Re-Active" )
+    then
+        MinimalDroolsForm.Form1.debugResult("Old Customer");
+        cust.Status = "Re-Active";
+        modify(cust);
+end
+
+rule "Discount"
+    when
+        Disc : CustomerRecord( Value > 50, Status == "Re-Active" )
+    then
+         MinimalDroolsForm.Form1.debugResult("Offer WELCOME BACK discount" );
+end 
+
+
+
+ 

@@ -1,0 +1,28 @@
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\MinimalDroolsForm.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\MinimalDroolsForm.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\drools.dotnet.dll
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\drools-3.0.dll
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\drools-dep.dll
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\IKVM.GNU.Classpath.dll
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\IKVM.Runtime.dll
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\drools-3.0.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\bin\Debug\drools.dotnet.pdb
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.Form1.resources
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.Properties.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.exe
+C:\Users\Mark\Documents\Visual Studio 2008\Projects\MinimalDroolsForm\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.pdb
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.exe
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.pdb
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.Form1.resources
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.Properties.Resources.resources
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.csproj.GenerateResource.Cache
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\MinimalDroolsForm.exe
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\MinimalDroolsForm.pdb
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\drools-3.0.dll
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\drools-dep.dll
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\drools.dotnet.dll
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\IKVM.GNU.Classpath.dll
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\bin\Debug\IKVM.Runtime.dll
+C:\Users\wangs153\Documents\workspace\Demo\MinimalDroolsForm\obj\Debug\MinimalDroolsForm.csprojResolveAssemblyReference.cache
